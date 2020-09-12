@@ -1,0 +1,16 @@
+projectName: helloworld
+git:
+  repositoryType: gitlab 
+  repositoryUrl:  https://gitlab.deepin.io/container/helloworld.git
+  branch: dev
+  userName: zhangpengxuan
+  accessToken: 19YmsZQ2VbsRrVTG8dPB
+node:
+  host: 47.94.104.204
+  port: 22
+  user: root
+  sshKeyDir: /Users/zhangpengxuan/.ssh/id_rsa
+  buildExec: ["build.sh"]
+  source:
+  remoteDir: /data
+  deployExec: ["deploy.sh"]

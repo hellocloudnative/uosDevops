@@ -1,0 +1,71 @@
+2020-09-11 13:16:15.857 [Debug] "repository already exists ", "07", "Clone failed: yes"
+2020-09-11 13:40:31.275 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 13:44:48.721 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 13:46:22.5 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 13:52:27.158 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 13:56:50.959 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 14:10:54.536 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 14:11:03.427 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 14:12:51.504 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 14:12:51.504 [Debug] "repository already exists ", "07", "It's up to date: yes"
+2020-09-11 14:13:31.904 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 14:18:35.252 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 14:18:44.156 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 14:19:19.891 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:19:39.605 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:21:21.758 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:22:14.675 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:35:28.959 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:39:05.576 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:39:56.167 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:42:19.567 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:43:16.828 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:43:40.387 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:45:23.888 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:46:18.3 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:47:29.53 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:50:27.304 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:51:25.31 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:54:38.612 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:57:50.671 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 14:59:16.074 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 15:02:34.91 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 15:02:39.563 [Debug] "authentication required ", "07", "It is be Cloned: yes"
+2020-09-11 15:13:01.757 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 15:14:01.472 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 15:15:06.503 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 15:15:52.848 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 15:27:46.367 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 15:36:47.085 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 15:38:40.881 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 15:43:56.856 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 15:44:06.777 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 15:48:02.806 [Debug] "repository already exists ", "07", "It is be Cloned: yes"
+2020-09-11 17:23:32.931 [Debug] [47.94.104.204]command result is:[ok]
+2020-09-11 17:24:20.103 [Debug] [47.94.104.204]command result is:anaconda3
+Anaconda3-5.3.1-Linux-x86_64.sh
+dead.letter
+djangobackup
+djangobackup.sh
+gejun
+helm-v2.11.0-linux-amd64.tar.gz
+istio-1.0.1.tgz
+kube1.16.3
+mips
+mysite
+mysqlbackup
+mysql.sh
+ncbi
+nohup.out
+scp.sh
+sratoolkit.2.9.2-centos_linux64
+sratoolkit.current-centos_linux64.tar.gz
+uwsgi.sh
+[ok]
+2020-09-12 16:29:18.194 [Debug] "Get "https://gitlab.deepin.io/container/helloworld.git/info/refs?service=git-upload-pack": dial tcp: lookup gitlab.deepin.io: no such host ", "07", "It is be Cloned: yes"
+2020-09-12 20:01:51.165 [Debug] the package is empty,please note that
+2020-09-12 20:02:44.8 [Debug] the package is empty,please note that
+
+2020-09-12 20:03:41.283 [Debug] the package is empty,please note that
+2020-09-12 20:04:08.011 [Debug] the package is empty,please note that
+2020-09-12 20:15:16.738 [Debug] "reference not found ", "07", "It is be Cloned: yes"

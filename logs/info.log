@@ -1,0 +1,2147 @@
+2020-09-11 11:47:49.237 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 11:55:48.459 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:06:35.997 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:10:13.754 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:11:33.892 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:40:51.264 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:40:51.384 [Info] The ssh connection is successful      [ok]%!(EXTRA string=project/helloworld)
+2020-09-11 13:44:59.913 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:45:00.03 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 13:46:36.363 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:46:36.479 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 13:48:08.682 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:48:08.817 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 13:52:39.592 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:52:39.713 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 13:53:44.804 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 13:53:44.915 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:10:12.914 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:10:13.058 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:12:51.504 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:12:51.649 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:13:31.905 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:13:32.03 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:18:35.252 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:18:35.384 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:18:44.156 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:18:44.297 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:19:19.891 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:19:20.013 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:19:39.605 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:19:39.728 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:21:21.758 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:21:21.874 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:22:14.675 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:22:14.79 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:31:43.909 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:31:44.029 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:32:56 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:32:56.134 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:32:59.348 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:32:59.47 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:35:28.959 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:35:29.079 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:39:05.576 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:39:56.168 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:42:19.567 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:43:16.828 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:43:40.388 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:45:23.889 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:46:18.301 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:47:29.53 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:50:27.304 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:51:25.311 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:54:38.612 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:54:38.732 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 14:57:50.671 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 14:59:16.074 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:02:34.91 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:02:39.563 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:03:43.226 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:13:01.758 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:14:01.472 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:14:01.66 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:15:06.503 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:15:06.652 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:15:52.848 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:15:52.983 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:27:46.367 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:27:46.548 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:27:46.576 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 15:36:47.085 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:36:47.195 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:36:47.225 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 15:38:40.881 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:38:40.994 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:38:41.027 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 15:43:56.856 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:43:56.96 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:43:56.989 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 15:44:06.777 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:44:06.882 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:44:06.911 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 15:47:01.674 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:47:01.783 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:47:01.811 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 15:48:02.806 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:48:02.915 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:48:02.962 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 15:54:28.346 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:54:28.431 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:54:28.457 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 15:54:58.431 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 15:54:58.538 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 15:54:58.563 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 16:14:13.608 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 16:14:13.75 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 16:14:13.775 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 16:41:17.741 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 16:41:17.829 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 16:41:17.854 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 16:42:08.698 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 16:42:09.016 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 16:42:09.044 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 16:57:10.26 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 16:57:10.26 [Info] Start building the project project/helloworld.....
+2020-09-11 16:57:10.347 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 16:57:10.373 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:22:35.527 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:22:35.527 [Info] Start building the project project/helloworld.....
+2020-09-11 17:22:46.949 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:22:46.949 [Info] Start building the project project/helloworld.....
+2020-09-11 17:23:32.657 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:23:32.657 [Info] Start building the project project/helloworld.....
+2020-09-11 17:23:32.749 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 17:23:32.777 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:24:19.86 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:24:19.86 [Info] Start building the project project/helloworld.....
+2020-09-11 17:24:19.95 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 17:24:19.976 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:25:08.716 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:25:08.716 [Info] Start building the project project/helloworld.....
+2020-09-11 17:25:08.826 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 17:25:08.868 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:25:09.197 [Info] [47.94.104.204]command result is:anaconda3
+Anaconda3-5.3.1-Linux-x86_64.sh
+dead.letter
+djangobackup
+djangobackup.sh
+gejun
+helm-v2.11.0-linux-amd64.tar.gz
+istio-1.0.1.tgz
+kube1.16.3
+mips
+mysite
+mysqlbackup
+mysql.sh
+ncbi
+nohup.out
+scp.sh
+sratoolkit.2.9.2-centos_linux64
+sratoolkit.current-centos_linux64.tar.gz
+uwsgi.sh
+[ok]
+2020-09-11 17:40:18.69 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:40:18.691 [Info] Start building the project project/helloworld.....
+2020-09-11 17:40:18.789 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 17:40:18.817 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:40:18.95 [Info] [47.94.104.204]command result is:anaconda3
+Anaconda3-5.3.1-Linux-x86_64.sh
+dead.letter
+djangobackup
+djangobackup.sh
+gejun
+helm-v2.11.0-linux-amd64.tar.gz
+istio-1.0.1.tgz
+kube1.16.3
+mips
+mysite
+mysqlbackup
+mysql.sh
+ncbi
+nohup.out
+scp.sh
+sratoolkit.2.9.2-centos_linux64
+sratoolkit.current-centos_linux64.tar.gz
+uwsgi.sh
+[ok]
+2020-09-11 17:40:25.874 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:40:25.874 [Info] Start building the project project/helloworld.....
+2020-09-11 17:40:25.964 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 17:40:25.99 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:40:26.109 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-11 17:41:00.151 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:41:00.151 [Info] Start building the project project/helloworld.....
+2020-09-11 17:41:00.25 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 17:41:00.279 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:41:00.397 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-11 17:41:19.418 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:41:19.418 [Info] Start building the project project/helloworld.....
+2020-09-11 17:41:19.849 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 17:41:19.876 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:41:20.03 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-11 17:42:02.251 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:42:02.251 [Info] Start building the project project/helloworld.....
+2020-09-11 17:42:02.351 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 17:42:02.379 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:42:02.543 [Info] [47.94.104.204]command result is:
+ bash: -c:��0: δԤ�ڵķ��� `EXTRA' �������﷨����
+bash: -c:��0: `./deploy.sh%!(EXTRA string=/data)'
+[ok]
+2020-09-11 17:42:52.434 [Info] Clone project/helloworld successed      [ok]
+2020-09-11 17:42:52.434 [Info] Start building the project project/helloworld.....
+2020-09-11 17:42:52.533 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-11 17:42:52.566 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-11 17:42:52.704 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 16:29:18.194 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:29:18.194 [Info] Start building the project project/helloworld.....
+2020-09-12 16:29:18.314 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:30:55.769 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:30:55.769 [Info] Start building the project project/helloworld.....
+2020-09-12 16:30:55.854 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:31:31.945 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:31:31.946 [Info] Start building the project project/helloworld.....
+2020-09-12 16:31:32.029 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:32:49.251 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:32:49.251 [Info] Start building the project project/helloworld.....
+2020-09-12 16:32:49.337 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:33:32.573 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:33:32.574 [Info] Start building the project project/helloworld.....
+2020-09-12 16:33:32.657 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:35:57.241 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:35:57.241 [Info] Start building the project project/helloworld.....
+2020-09-12 16:35:57.338 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:36:55.745 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:36:55.745 [Info] Start building the project project/helloworld.....
+2020-09-12 16:36:55.841 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:38:05.187 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:38:05.187 [Info] Start building the project project/helloworld.....
+2020-09-12 16:38:05.271 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:38:33.431 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:38:33.431 [Info] Start building the project project/helloworld.....
+2020-09-12 16:38:33.515 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:39:43.693 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:39:43.694 [Info] Start building the project project/helloworld.....
+2020-09-12 16:39:43.781 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:40:01.432 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:40:01.432 [Info] Start building the project project/helloworld.....
+2020-09-12 16:40:01.528 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:40:31.751 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:40:31.751 [Info] Start building the project project/helloworld.....
+2020-09-12 16:40:31.844 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:42:29.643 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:42:29.644 [Info] Start building the project project/helloworld.....
+2020-09-12 16:42:29.735 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:48:44.615 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:48:44.615 [Info] Start building the project project/helloworld.....
+2020-09-12 16:48:44.704 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:55:21.238 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:55:21.238 [Info] Start building the project project/helloworld.....
+2020-09-12 16:55:21.319 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:55:21.32 [Info] Read  source file    [ok]
+2020-09-12 16:55:21.32 [Info] Read  deploy file      [ok]
+2020-09-12 16:56:59.22 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 16:56:59.22 [Info] Start building the project project/helloworld.....
+2020-09-12 16:56:59.305 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 16:56:59.305 [Info] Read  source file    [ok]
+2020-09-12 16:56:59.305 [Info] Read  deploy file      [ok]
+2020-09-12 17:00:03.63 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:00:03.63 [Info] Start building the project project/helloworld.....
+2020-09-12 17:00:03.719 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:00:03.719 [Info] Read this  file    [ok]
+2020-09-12 17:00:03.835 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:00:03.835 [Info] Read this  file    [ok]
+2020-09-12 17:05:14.743 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:05:14.743 [Info] Start building the project project/helloworld.....
+2020-09-12 17:05:14.825 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:05:14.825 [Info] Read this  file    [ok]
+2020-09-12 17:05:14.932 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:05:14.932 [Info] Read this  file    [ok]
+2020-09-12 17:10:35.928 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:10:35.928 [Info] Start building the project project/helloworld.....
+2020-09-12 17:10:36.02 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:10:36.02 [Info] Read this  file    [ok]
+2020-09-12 17:12:52.824 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:12:52.824 [Info] Start building the project project/helloworld.....
+2020-09-12 17:12:52.916 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:12:52.916 [Info] Read this  file    [ok]
+2020-09-12 17:15:43.751 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:15:43.752 [Info] Start building the project project/helloworld.....
+2020-09-12 17:15:43.842 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:15:43.842 [Info] Read this  file    [ok]
+2020-09-12 17:20:56.028 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:20:56.028 [Info] Start building the project project/helloworld.....
+2020-09-12 17:20:56.114 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:20:56.114 [Info] Read this  file    [ok]
+2020-09-12 17:20:56.14 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:20:56.253 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:25:01.984 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:25:01.984 [Info] Start building the project project/helloworld.....
+2020-09-12 17:25:02.076 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:25:02.076 [Info] Read this  file    [ok]
+2020-09-12 17:25:02.101 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:25:02.207 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:25:43.83 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:25:43.83 [Info] Start building the project project/helloworld.....
+2020-09-12 17:25:43.913 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:25:43.913 [Info] Read this  file    [ok]
+2020-09-12 17:25:43.936 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:25:44.054 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:28:21.628 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:28:21.628 [Info] Start building the project project/helloworld.....
+2020-09-12 17:28:21.711 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:28:21.711 [Info] Read this  file    [ok]
+2020-09-12 17:28:21.734 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:28:21.849 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:29:49.738 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:29:49.738 [Info] Start building the project project/helloworld.....
+2020-09-12 17:29:49.821 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:29:49.821 [Info] Read this  file    [ok]
+2020-09-12 17:29:49.846 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:29:49.953 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:30:37.146 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:30:37.147 [Info] Start building the project project/helloworld.....
+2020-09-12 17:30:37.281 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:30:37.281 [Info] Read this  file    [ok]
+2020-09-12 17:30:37.406 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:30:37.406 [Info] Read this  file    [ok]
+2020-09-12 17:30:37.433 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:30:37.552 [Info] [47.94.104.204]command result is:
+ bash: ./deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:32:10.688 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:32:10.688 [Info] Start building the project project/helloworld.....
+2020-09-12 17:32:10.782 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:32:10.782 [Info] Read this  file    [ok]
+2020-09-12 17:32:10.896 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:32:10.896 [Info] Read this  file    [ok]
+2020-09-12 17:32:10.92 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:32:11.031 [Info] [47.94.104.204]command result is:
+ bash: deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:32:49.746 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:32:49.746 [Info] Start building the project project/helloworld.....
+2020-09-12 17:32:49.959 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:32:49.959 [Info] Read this  file    [ok]
+2020-09-12 17:32:50.486 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:32:50.486 [Info] Read this  file    [ok]
+2020-09-12 17:32:50.647 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:32:50.756 [Info] [47.94.104.204]command result is:
+ bash: ll: δ�ҵ�����
+[ok]
+2020-09-12 17:33:20.162 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:33:20.162 [Info] Start building the project project/helloworld.....
+2020-09-12 17:33:20.257 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:33:20.257 [Info] Read this  file    [ok]
+2020-09-12 17:33:20.369 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:33:20.369 [Info] Read this  file    [ok]
+2020-09-12 17:33:20.394 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:33:20.515 [Info] [47.94.104.204]command result is:
+ anaconda3
+Anaconda3-5.3.1-Linux-x86_64.sh
+dead.letter
+djangobackup
+djangobackup.sh
+gejun
+helm-v2.11.0-linux-amd64.tar.gz
+istio-1.0.1.tgz
+kube1.16.3
+mips
+mysite
+mysqlbackup
+mysql.sh
+ncbi
+nohup.out
+scp.sh
+sratoolkit.2.9.2-centos_linux64
+sratoolkit.current-centos_linux64.tar.gz
+uwsgi.sh
+[ok]
+2020-09-12 17:33:45.9 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:33:45.9 [Info] Start building the project project/helloworld.....
+2020-09-12 17:33:45.987 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:33:45.987 [Info] Read this  file    [ok]
+2020-09-12 17:33:46.092 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:33:46.092 [Info] Read this  file    [ok]
+2020-09-12 17:33:46.118 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:33:46.232 [Info] [47.94.104.204]command result is:
+ /root
+[ok]
+2020-09-12 17:34:13.28 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:34:13.281 [Info] Start building the project project/helloworld.....
+2020-09-12 17:34:13.366 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:34:13.367 [Info] Read this  file    [ok]
+2020-09-12 17:34:13.479 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:34:13.479 [Info] Read this  file    [ok]
+2020-09-12 17:34:13.505 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:34:13.622 [Info] [47.94.104.204]command result is:
+ hello world
+[ok]
+2020-09-12 17:34:34.056 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:34:34.056 [Info] Start building the project project/helloworld.....
+2020-09-12 17:34:34.14 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:34:34.141 [Info] Read this  file    [ok]
+2020-09-12 17:34:34.257 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:34:34.257 [Info] Read this  file    [ok]
+2020-09-12 17:34:34.283 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:34:34.411 [Info] [47.94.104.204]command result is:
+ sh: deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:37:39.35 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:37:39.35 [Info] Start building the project project/helloworld.....
+2020-09-12 17:37:39.447 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:37:39.447 [Info] Read this  file    [ok]
+2020-09-12 17:37:39.551 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:37:39.551 [Info] Read this  file    [ok]
+2020-09-12 17:37:39.574 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:37:39.694 [Info] [47.94.104.204]command result is:
+ sh: deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:38:18.262 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:38:18.263 [Info] Start building the project project/helloworld.....
+2020-09-12 17:38:18.345 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:38:18.345 [Info] Read this  file    [ok]
+2020-09-12 17:38:18.458 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:38:18.458 [Info] Read this  file    [ok]
+2020-09-12 17:38:18.482 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:38:18.592 [Info] [47.94.104.204]command result is:
+ sh: deploy.sh: û���Ǹ��ļ���Ŀ¼
+[ok]
+2020-09-12 17:40:04.242 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:40:04.242 [Info] Start building the project project/helloworld.....
+2020-09-12 17:40:04.334 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:40:04.334 [Info] Read this  file    [ok]
+2020-09-12 17:40:04.44 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:40:04.44 [Info] Read this  file    [ok]
+2020-09-12 17:40:04.465 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:40:04.587 [Info] [47.94.104.204]command result is:
+ sh: deploy.sh: 没有那个文件或目录
+[ok]
+2020-09-12 17:40:56.266 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:40:56.266 [Info] Start building the project project/helloworld.....
+2020-09-12 17:40:56.358 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:40:56.358 [Info] Read this  file    [ok]
+2020-09-12 17:40:56.463 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:40:56.463 [Info] Read this  file    [ok]
+2020-09-12 17:40:56.487 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:40:56.622 [Info] [47.94.104.204]command result is:
+ hello world
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+[ok]
+2020-09-12 17:41:29.915 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:41:29.915 [Info] Start building the project project/helloworld.....
+2020-09-12 17:41:30 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:41:30 [Info] Read this  file    [ok]
+2020-09-12 17:41:30.11 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:41:30.11 [Info] Read this  file    [ok]
+2020-09-12 17:41:30.137 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:41:30.272 [Info] [47.94.104.204]command result is:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+[ok]
+2020-09-12 17:43:50.814 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:43:50.814 [Info] Start building the project project/helloworld.....
+2020-09-12 17:43:50.903 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:43:50.903 [Info] Read this  file    [ok]
+2020-09-12 17:43:51.01 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:43:51.011 [Info] Read this  file    [ok]
+2020-09-12 17:43:51.037 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:43:51.166 [Info] [47.94.104.204]command result is:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+[ok]
+2020-09-12 17:47:40.854 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:47:40.854 [Info] Start building the project project/helloworld.....
+2020-09-12 17:47:40.95 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:47:40.95 [Info] Read this  file    [ok]
+2020-09-12 17:47:40.975 [Info] 47.94.104.204:22 The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 17:47:41.061 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:47:41.061 [Info] Read this  file    [ok]
+2020-09-12 17:47:41.087 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:47:41.218 [Info] [47.94.104.204]command result is:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+[ok]
+2020-09-12 17:49:14.018 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:49:14.018 [Info] Start building the project project/helloworld.....
+2020-09-12 17:49:14.09 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:49:14.09 [Info] Read this  file    [ok]
+2020-09-12 17:49:14.111 [Info] 47.94.104.204:22 The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 17:49:14.191 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:49:14.191 [Info] Read this  file    [ok]
+2020-09-12 17:49:14.216 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:49:14.347 [Info] [47.94.104.204]command result running ...:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+command is [ok]
+2020-09-12 17:49:53.642 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:49:53.642 [Info] Start building the project project/helloworld.....
+2020-09-12 17:49:53.722 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:49:53.722 [Info] Read this  file    [ok]
+2020-09-12 17:49:53.748 [Info] 47.94.104.204:22 The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 17:49:53.837 [Info] 47.94.104.204:22 The ssh connection is successful      [ok]
+2020-09-12 17:49:53.837 [Info] Read this  file    [ok]
+2020-09-12 17:49:53.864 [Info] 47.94.104.204:22 The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:49:53.995 [Info] [47.94.104.204]command result running ...:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+command is complete！
+2020-09-12 17:51:43.541 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:51:43.541 [Info] Start building the project project/helloworld.....
+2020-09-12 17:51:43.633 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 17:51:43.633 [Info] Read this  file    [ok]
+2020-09-12 17:51:43.66 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 17:51:43.749 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 17:51:43.749 [Info] Read this  file    [ok]
+2020-09-12 17:51:43.774 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:51:43.906 [Info] [47.94.104.204]command result running ...:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+command is complete！
+2020-09-12 17:53:44.765 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 17:53:44.766 [Info] Start building the project project/helloworld.....
+2020-09-12 17:53:44.97 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 17:53:44.97 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 17:53:44.999 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 17:53:45.469 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 17:53:45.469 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 17:53:45.495 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 17:53:45.758 [Info] [47.94.104.204]command result running ...:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+command is complete！
+2020-09-12 18:03:57.45 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:03:57.451 [Info] Start building the project project/helloworld.....
+2020-09-12 18:03:57.561 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:03:57.561 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:03:57.59 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:03:57.668 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:03:57.668 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:03:57.692 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:03:57.819 [Info] [47.94.104.204]command result running ...:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+command is completed
+2020-09-12 18:03:57.819 [Info] [47.94.104.204:22]  Deploy  helloworld is    successful      [ok]
+2020-09-12 18:11:22.776 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:11:22.776 [Info] Start building the project project/helloworld.....
+2020-09-12 18:11:22.86 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:11:22.86 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:11:22.886 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:11:22.973 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:11:22.973 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:11:23.005 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:11:23.137 [Info] [47.94.104.204]command result running ...:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+command is completed
+2020-09-12 18:11:23.137 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 18:11:42.628 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:11:42.628 [Info] Start building the project project/helloworld.....
+2020-09-12 18:11:42.714 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:11:42.714 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:11:42.738 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:11:42.816 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:11:42.817 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:11:42.84 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:11:42.976 [Info] [47.94.104.204]command result running ...:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+command is completed
+2020-09-12 18:11:42.976 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 18:13:30.608 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:13:30.608 [Info] Start building the project project/helloworld.....
+2020-09-12 18:13:30.696 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:13:30.696 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:13:30.722 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:13:30.81 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:13:30.81 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:13:30.838 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:13:30.976 [Info] [47.94.104.204]command result running ...:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+command is completed
+2020-09-12 18:13:30.976 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 18:16:04.316 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:16:04.317 [Info] Start building the project project/helloworld.....
+2020-09-12 18:16:04.406 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:16:04.406 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:16:04.438 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:16:04.532 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:16:04.533 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:16:04.558 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:16:04.693 [Info] [47.94.104.204]command result running ...:
+ + echo 'hello world'
+hello world
++ ls -l
+总用量 752608
+drwxr-xr-x 21 root root       4096 2月  28 2019 anaconda3
+-rw-r--r--  1 root root  667976437 11月 20 2018 Anaconda3-5.3.1-Linux-x86_64.sh
+-rw-------  1 root root     452124 9月  12 00:02 dead.letter
+drwxr-xr-x  2 root root       4096 9月  12 00:00 djangobackup
+-rwxr-xr-x  1 root root        751 10月 29 2018 djangobackup.sh
+drwxr-xr-x  8 root root       4096 9月   6 2019 gejun
+-rw-r--r--  1 root root   19149273 9月  19 2019 helm-v2.11.0-linux-amd64.tar.gz
+-rw-r--r--  1 root root      36558 9月  19 2019 istio-1.0.1.tgz
+drwxr-xr-x  2 root root       4096 11月 30 2019 kube1.16.3
+drwxr-xr-x  2 root root       4096 9月   8 16:18 mips
+drwxr-xr-x 12 root root       4096 2月  28 2019 mysite
+drwxr-xr-x  2 root root       4096 9月  12 00:00 mysqlbackup
+-rwxr-xr-x  1 root root        755 10月 29 2018 mysql.sh
+drwxr-xr-x  3 root root       4096 11月 25 2018 ncbi
+-rw-------  1 root root       1608 11月 25 2018 nohup.out
+-rwxr-xr-x  1 root root         67 9月  19 2019 scp.sh
+drwxrwxr-x  5 5640 13023      4096 7月  24 2018 sratoolkit.2.9.2-centos_linux64
+-rw-r--r--  1 root root   82977004 7月  24 2018 sratoolkit.current-centos_linux64.tar.gz
+-rwxr-xr-x  1 root root         55 10月 29 2018 uwsgi.sh
+command is completed
+2020-09-12 18:16:04.693 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 18:18:01.184 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:18:01.184 [Info] Start building the project project/helloworld.....
+2020-09-12 18:18:01.272 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:18:01.272 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:18:01.298 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:18:01.385 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:18:01.386 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:18:01.414 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:18:11.584 [Info] [47.94.104.204]command result running ...:
+ + (( i=0 ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:02
+2020-09-12 18:18:02
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:03
+2020-09-12 18:18:03
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:04
+2020-09-12 18:18:04
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:05
+2020-09-12 18:18:05
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:06
+2020-09-12 18:18:06
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:07
+2020-09-12 18:18:07
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:08
+2020-09-12 18:18:08
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:09
+2020-09-12 18:18:09
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:10
+2020-09-12 18:18:10
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:11
+2020-09-12 18:18:11
++ (( i++ ))
++ (( i<10 ))
+command is completed
+2020-09-12 18:18:11.584 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 18:18:36.189 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:18:36.189 [Info] Start building the project project/helloworld.....
+2020-09-12 18:18:36.296 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:18:36.296 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:18:36.325 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:18:36.416 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:18:36.416 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:18:36.451 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:18:46.612 [Info] [47.94.104.204]command result running ...:
+ + (( i=0 ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:37
+2020-09-12 18:18:37
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:38
+2020-09-12 18:18:38
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:39
+2020-09-12 18:18:39
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:40
+2020-09-12 18:18:40
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:41
+2020-09-12 18:18:41
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:42
+2020-09-12 18:18:42
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:43
+2020-09-12 18:18:43
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:44
+2020-09-12 18:18:44
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:45
+2020-09-12 18:18:45
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:18:46
+2020-09-12 18:18:46
++ (( i++ ))
++ (( i<10 ))
+command is completed
+2020-09-12 18:18:46.613 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 18:24:25.742 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:24:25.742 [Info] Start building the project project/helloworld.....
+2020-09-12 18:24:25.828 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:24:25.829 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:24:25.852 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:24:25.929 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:24:25.929 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:24:25.954 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:24:36.247 [Info] [47.94.104.204]command result running ...:
+ + (( i=0 ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:27
+2020-09-12 18:24:27
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:28
+2020-09-12 18:24:28
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:29
+2020-09-12 18:24:29
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:30
+2020-09-12 18:24:30
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:31
+2020-09-12 18:24:31
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:32
+2020-09-12 18:24:32
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:33
+2020-09-12 18:24:33
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:34
+2020-09-12 18:24:34
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:35
+2020-09-12 18:24:35
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:24:36
+2020-09-12 18:24:36
++ (( i++ ))
++ (( i<10 ))
+command is completed
+2020-09-12 18:25:10.807 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:25:10.808 [Info] Start building the project project/helloworld.....
+2020-09-12 18:25:10.898 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:25:10.898 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:25:10.925 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:25:11.02 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:25:11.02 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:25:11.051 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:25:21.235 [Info] [47.94.104.204]command result running ...:
+ + (( i=0 ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:12
+2020-09-12 18:25:12
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:13
+2020-09-12 18:25:13
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:14
+2020-09-12 18:25:14
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:15
+2020-09-12 18:25:15
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:16
+2020-09-12 18:25:16
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:17
+2020-09-12 18:25:17
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:18
+2020-09-12 18:25:18
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:19
+2020-09-12 18:25:19
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:20
+2020-09-12 18:25:20
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:25:21
+2020-09-12 18:25:21
++ (( i++ ))
++ (( i<10 ))
+command is completed
+2020-09-12 18:25:21.236 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 18:28:14.211 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 18:28:14.211 [Info] Start building the project project/helloworld.....
+2020-09-12 18:28:14.303 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:28:14.303 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:28:14.334 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 18:28:14.415 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 18:28:14.415 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 18:28:14.439 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 18:28:24.587 [Info] [47.94.104.204]command result running ...:
+ + (( i=0 ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:15
+2020-09-12 18:28:15
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:16
+2020-09-12 18:28:16
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:17
+2020-09-12 18:28:17
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:18
+2020-09-12 18:28:18
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:19
+2020-09-12 18:28:19
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:20
+2020-09-12 18:28:20
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:21
+2020-09-12 18:28:21
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:22
+2020-09-12 18:28:22
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:23
+2020-09-12 18:28:23
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 18:28:24
+2020-09-12 18:28:24
++ (( i++ ))
++ (( i<10 ))
+command is completed
+2020-09-12 18:28:24.587 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:14:57.68 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:14:57.68 [Info] Start building the project project/helloworld.....
+2020-09-12 19:14:57.792 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:14:57.792 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:14:57.817 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:14:57.907 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:14:57.907 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:14:57.933 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:15:08.132 [Info] [47.94.104.204]command result running ...:
+ + (( i=0 ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:14:59
+2020-09-12 19:14:59
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:00
+2020-09-12 19:15:00
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:01
+2020-09-12 19:15:01
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:02
+2020-09-12 19:15:02
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:03
+2020-09-12 19:15:03
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:04
+2020-09-12 19:15:04
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:05
+2020-09-12 19:15:05
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:06
+2020-09-12 19:15:06
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:07
+2020-09-12 19:15:07
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:08
+2020-09-12 19:15:08
++ (( i++ ))
++ (( i<10 ))
+command is completed
+2020-09-12 19:15:08.133 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:15:56.064 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:15:56.064 [Info] Start building the project project/helloworld.....
+2020-09-12 19:15:56.142 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:15:56.142 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:15:56.164 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:15:56.251 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:15:56.251 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:15:56.279 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:16:06.502 [Info] [47.94.104.204]command result running ...:
+ + (( i=0 ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:57
+2020-09-12 19:15:57
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:58
+2020-09-12 19:15:58
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:15:59
+2020-09-12 19:15:59
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:16:00
+2020-09-12 19:16:00
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:16:01
+2020-09-12 19:16:01
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:16:02
+2020-09-12 19:16:02
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:16:03
+2020-09-12 19:16:03
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:16:04
+2020-09-12 19:16:04
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:16:05
+2020-09-12 19:16:05
++ (( i++ ))
++ (( i<10 ))
++ sleep 1
+++ date '+%Y-%m-%d %H:%M:%S'
++ echo 2020-09-12 19:16:06
+2020-09-12 19:16:06
++ (( i++ ))
++ (( i<10 ))
+command is completed
+2020-09-12 19:16:06.502 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:16:50.67 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:16:50.67 [Info] Start building the project project/helloworld.....
+2020-09-12 19:16:50.761 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:16:50.761 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:16:50.788 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:16:50.874 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:16:50.875 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:16:50.902 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:17:01.082 [Info] [47.94.104.204]command result running ...:
+ 2020-09-12 19:16:51
+2020-09-12 19:16:53
+2020-09-12 19:16:54
+2020-09-12 19:16:55
+2020-09-12 19:16:56
+2020-09-12 19:16:57
+2020-09-12 19:16:58
+2020-09-12 19:16:59
+2020-09-12 19:17:00
+2020-09-12 19:17:01
+command is completed
+2020-09-12 19:17:01.082 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:22:38.782 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:22:38.782 [Info] Start building the project project/helloworld.....
+2020-09-12 19:22:38.891 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:22:38.891 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:22:38.921 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:22:39.02 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:22:39.02 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:22:39.046 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:22:39.182 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:22:39.182 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:23:35.97 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:23:35.97 [Info] Start building the project project/helloworld.....
+2020-09-12 19:23:36.07 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:23:36.07 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:23:36.096 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:23:36.181 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:23:36.181 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:23:36.205 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:23:36.33 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:23:36.33 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:24:11.256 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:24:11.256 [Info] Start building the project project/helloworld.....
+2020-09-12 19:24:11.362 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:24:11.362 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:24:11.387 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:24:11.474 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:24:11.474 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:24:11.501 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:24:11.63 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:24:11.63 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:25:46.593 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:25:46.594 [Info] Start building the project project/helloworld.....
+2020-09-12 19:25:56.782 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:25:56.782 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:25:56.804 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:25:56.889 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:25:56.889 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:25:56.914 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:25:57.041 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:25:57.041 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:27:22.672 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:27:22.672 [Info] Start building the project project/helloworld.....
+2020-09-12 19:27:32.846 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:27:32.847 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:27:32.875 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:27:32.962 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:27:32.962 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:27:32.989 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:27:33.117 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:27:33.117 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:27:50.98 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:27:50.98 [Info] Start building the project project/helloworld.....
+2020-09-12 19:27:52.002 [Info] 2020-09-12 19:27:52
+
+2020-09-12 19:27:53.012 [Info] 2020-09-12 19:27:53
+
+2020-09-12 19:27:54.021 [Info] 2020-09-12 19:27:54
+
+2020-09-12 19:27:55.03 [Info] 2020-09-12 19:27:55
+
+2020-09-12 19:27:56.037 [Info] 2020-09-12 19:27:56
+
+2020-09-12 19:27:57.045 [Info] 2020-09-12 19:27:57
+
+2020-09-12 19:27:58.054 [Info] 2020-09-12 19:27:58
+
+2020-09-12 19:27:59.062 [Info] 2020-09-12 19:27:59
+
+2020-09-12 19:28:00.07 [Info] 2020-09-12 19:28:00
+
+2020-09-12 19:28:01.079 [Info] 2020-09-12 19:28:01
+
+2020-09-12 19:28:01.173 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:28:01.173 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:28:01.199 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:28:01.277 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:28:01.278 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:28:01.302 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:28:01.431 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:28:01.431 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:28:23.243 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:28:23.243 [Info] Start building the project project/helloworld.....
+2020-09-12 19:28:24.261 [Info] 2020-09-12 19:28:24
+2020-09-12 19:28:25.267 [Info] 2020-09-12 19:28:25
+2020-09-12 19:28:26.275 [Info] 2020-09-12 19:28:26
+2020-09-12 19:28:27.281 [Info] 2020-09-12 19:28:27
+2020-09-12 19:28:28.289 [Info] 2020-09-12 19:28:28
+2020-09-12 19:28:29.297 [Info] 2020-09-12 19:28:29
+2020-09-12 19:28:30.305 [Info] 2020-09-12 19:28:30
+2020-09-12 19:28:31.312 [Info] 2020-09-12 19:28:31
+2020-09-12 19:28:32.321 [Info] 2020-09-12 19:28:32
+2020-09-12 19:28:33.331 [Info] 2020-09-12 19:28:33
+2020-09-12 19:28:33.423 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:28:33.423 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:28:33.449 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:28:33.535 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:28:33.535 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:28:33.567 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:28:33.69 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:28:33.69 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:29:27.412 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:29:27.412 [Info] Start building the project project/helloworld.....
+2020-09-12 19:29:27.501 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:29:27.501 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:29:27.526 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:29:27.622 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:29:27.623 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:29:27.65 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:29:27.773 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:29:27.774 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:29:42.137 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:29:42.137 [Info] Start building the project project/helloworld.....
+2020-09-12 19:29:43.154 [Info] 2020-09-12 19:29:43
+2020-09-12 19:29:44.163 [Info] 2020-09-12 19:29:44
+2020-09-12 19:29:45.17 [Info] 2020-09-12 19:29:45
+2020-09-12 19:29:46.177 [Info] 2020-09-12 19:29:46
+2020-09-12 19:29:47.182 [Info] 2020-09-12 19:29:47
+2020-09-12 19:29:48.188 [Info] 2020-09-12 19:29:48
+2020-09-12 19:29:49.195 [Info] 2020-09-12 19:29:49
+2020-09-12 19:29:50.202 [Info] 2020-09-12 19:29:50
+2020-09-12 19:29:51.21 [Info] 2020-09-12 19:29:51
+2020-09-12 19:29:52.215 [Info] 2020-09-12 19:29:52
+2020-09-12 19:29:52.31 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:29:52.31 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:29:52.337 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:29:52.418 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:29:52.419 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:29:52.446 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:29:52.582 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:29:52.582 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:36:58.467 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:36:58.468 [Info] Start building the project project/helloworld.....
+2020-09-12 19:36:59.485 [Info] 2020-09-12 19:36:59
+2020-09-12 19:37:00.495 [Info] 2020-09-12 19:37:00
+2020-09-12 19:37:01.501 [Info] 2020-09-12 19:37:01
+2020-09-12 19:37:02.511 [Info] 2020-09-12 19:37:02
+2020-09-12 19:37:03.52 [Info] 2020-09-12 19:37:03
+2020-09-12 19:37:04.527 [Info] 2020-09-12 19:37:04
+2020-09-12 19:37:05.537 [Info] 2020-09-12 19:37:05
+2020-09-12 19:37:06.546 [Info] 2020-09-12 19:37:06
+2020-09-12 19:37:07.551 [Info] 2020-09-12 19:37:07
+2020-09-12 19:37:08.561 [Info] 2020-09-12 19:37:08
+2020-09-12 19:37:08.662 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:37:08.663 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:37:08.691 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:37:08.78 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:37:08.78 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:37:08.807 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:37:08.936 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:37:08.936 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:39:42.446 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:39:42.446 [Info] Start building the project project/helloworld.....
+2020-09-12 19:39:43.461 [Info] 2020-09-12 19:39:43
+2020-09-12 19:39:44.47 [Info] 2020-09-12 19:39:44
+2020-09-12 19:39:45.479 [Info] 2020-09-12 19:39:45
+2020-09-12 19:39:46.488 [Info] 2020-09-12 19:39:46
+2020-09-12 19:39:47.493 [Info] 2020-09-12 19:39:47
+2020-09-12 19:39:48.501 [Info] 2020-09-12 19:39:48
+2020-09-12 19:39:49.509 [Info] 2020-09-12 19:39:49
+2020-09-12 19:39:50.516 [Info] 2020-09-12 19:39:50
+2020-09-12 19:39:51.525 [Info] 2020-09-12 19:39:51
+2020-09-12 19:39:52.53 [Info] 2020-09-12 19:39:52
+2020-09-12 19:39:52.53 [Info] End  building the project project/helloworld.....
+2020-09-12 19:39:52.622 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:39:52.623 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:39:52.651 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:39:52.737 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:39:52.737 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:39:52.764 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:39:52.886 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:39:52.886 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:43:13.215 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:43:13.215 [Info] Start building the project project/helloworld.....
+2020-09-12 19:43:13.22 [Info] bash: project/helloworld/build.sh: Permission denied
+2020-09-12 19:43:13.22 [Info] End  building the project project/helloworld.....
+2020-09-12 19:43:13.313 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:43:13.313 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:43:13.34 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:43:13.428 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:43:13.428 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:43:13.456 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:43:13.59 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:43:13.59 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:44:51.77 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:44:51.771 [Info] Start building the project project/helloworld.....
+2020-09-12 19:44:51.777 [Info] End  building the project project/helloworld.....
+2020-09-12 19:44:51.86 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:44:51.86 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:44:51.884 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:44:51.962 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:44:51.962 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:44:51.984 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:44:52.104 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:44:52.105 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:48:37.829 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:48:37.829 [Info] Start building the project project/helloworld.....
+2020-09-12 19:48:37.837 [Info] project/helloworld/build.sh: line 8: syntax error: unexpected end of file
+2020-09-12 19:48:37.837 [Info] End  building the project project/helloworld.....
+2020-09-12 19:48:37.926 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:48:37.926 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:48:37.953 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:48:38.037 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:48:38.037 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:48:38.063 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:48:38.186 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:48:38.186 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 19:48:48.808 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 19:48:48.808 [Info] Start building the project project/helloworld.....
+2020-09-12 19:48:49.825 [Info] 2020-09-12 19:48:49
+2020-09-12 19:48:50.834 [Info] 2020-09-12 19:48:50
+2020-09-12 19:48:51.842 [Info] 2020-09-12 19:48:51
+2020-09-12 19:48:52.849 [Info] 2020-09-12 19:48:52
+2020-09-12 19:48:53.857 [Info] 2020-09-12 19:48:53
+2020-09-12 19:48:54.865 [Info] 2020-09-12 19:48:54
+2020-09-12 19:48:55.873 [Info] 2020-09-12 19:48:55
+2020-09-12 19:48:56.879 [Info] 2020-09-12 19:48:56
+2020-09-12 19:48:57.889 [Info] 2020-09-12 19:48:57
+2020-09-12 19:48:58.897 [Info] 2020-09-12 19:48:58
+2020-09-12 19:48:58.898 [Info] End  building the project project/helloworld.....
+2020-09-12 19:48:59 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:48:59 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:48:59.025 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 19:48:59.105 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 19:48:59.105 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 19:48:59.13 [Info] [47.94.104.204:22] The  Compressed package deployment.yaml for send  is    successful      [ok]
+2020-09-12 19:48:59.258 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 19:48:59.258 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:01:12.553 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:01:12.553 [Info] Start building the project project/helloworld.....
+2020-09-12 20:01:13.576 [Info] 2020-09-12 20:01:13
+2020-09-12 20:01:14.584 [Info] 2020-09-12 20:01:14
+2020-09-12 20:01:15.59 [Info] 2020-09-12 20:01:15
+2020-09-12 20:01:16.599 [Info] 2020-09-12 20:01:16
+2020-09-12 20:01:41.081 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:01:41.081 [Info] Start building the project project/helloworld.....
+2020-09-12 20:01:42.097 [Info] 2020-09-12 20:01:42
+2020-09-12 20:01:43.102 [Info] 2020-09-12 20:01:43
+2020-09-12 20:01:44.11 [Info] 2020-09-12 20:01:44
+2020-09-12 20:01:45.116 [Info] 2020-09-12 20:01:45
+2020-09-12 20:01:46.125 [Info] 2020-09-12 20:01:46
+2020-09-12 20:01:47.131 [Info] 2020-09-12 20:01:47
+2020-09-12 20:01:48.139 [Info] 2020-09-12 20:01:48
+2020-09-12 20:01:49.147 [Info] 2020-09-12 20:01:49
+2020-09-12 20:01:50.156 [Info] 2020-09-12 20:01:50
+2020-09-12 20:01:51.165 [Info] 2020-09-12 20:01:51
+2020-09-12 20:01:51.165 [Info] End  building the project project/helloworld.....
+2020-09-12 20:01:51.252 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:01:51.252 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:01:51.279 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:01:51.368 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:01:51.368 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:01:51.392 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:01:51.522 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 20:01:51.522 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:02:34.715 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:02:34.716 [Info] Start building the project project/helloworld.....
+2020-09-12 20:02:35.729 [Info] 2020-09-12 20:02:35
+2020-09-12 20:02:36.737 [Info] 2020-09-12 20:02:36
+2020-09-12 20:02:37.745 [Info] 2020-09-12 20:02:37
+2020-09-12 20:02:38.751 [Info] 2020-09-12 20:02:38
+2020-09-12 20:02:39.758 [Info] 2020-09-12 20:02:39
+2020-09-12 20:02:40.765 [Info] 2020-09-12 20:02:40
+2020-09-12 20:02:41.774 [Info] 2020-09-12 20:02:41
+2020-09-12 20:02:42.783 [Info] 2020-09-12 20:02:42
+2020-09-12 20:02:43.791 [Info] 2020-09-12 20:02:43
+2020-09-12 20:02:44.8 [Info] 2020-09-12 20:02:44
+2020-09-12 20:02:44.8 [Info] End  building the project project/helloworld.....
+2020-09-12 20:02:44.891 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:02:44.891 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:02:44.918 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:02:45.001 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:02:45.001 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:02:45.026 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:02:45.152 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 20:02:45.152 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:03:31.2 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:03:31.201 [Info] Start building the project project/helloworld.....
+2020-09-12 20:03:32.215 [Info] 2020-09-12 20:03:32
+2020-09-12 20:03:33.223 [Info] 2020-09-12 20:03:33
+2020-09-12 20:03:34.229 [Info] 2020-09-12 20:03:34
+2020-09-12 20:03:35.238 [Info] 2020-09-12 20:03:35
+2020-09-12 20:03:36.248 [Info] 2020-09-12 20:03:36
+2020-09-12 20:03:37.253 [Info] 2020-09-12 20:03:37
+2020-09-12 20:03:38.26 [Info] 2020-09-12 20:03:38
+2020-09-12 20:03:39.27 [Info] 2020-09-12 20:03:39
+2020-09-12 20:03:40.275 [Info] 2020-09-12 20:03:40
+2020-09-12 20:03:41.283 [Info] 2020-09-12 20:03:41
+2020-09-12 20:03:41.283 [Info] End  building the project project/helloworld.....
+2020-09-12 20:03:41.392 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:03:41.392 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:03:41.418 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:03:41.503 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:03:41.503 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:03:41.529 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:03:41.658 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 20:03:41.658 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:03:57.921 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:03:57.921 [Info] Start building the project project/helloworld.....
+2020-09-12 20:03:58.936 [Info] 2020-09-12 20:03:58
+2020-09-12 20:03:59.945 [Info] 2020-09-12 20:03:59
+2020-09-12 20:04:00.954 [Info] 2020-09-12 20:04:00
+2020-09-12 20:04:01.962 [Info] 2020-09-12 20:04:01
+2020-09-12 20:04:02.971 [Info] 2020-09-12 20:04:02
+2020-09-12 20:04:03.98 [Info] 2020-09-12 20:04:03
+2020-09-12 20:04:04.988 [Info] 2020-09-12 20:04:04
+2020-09-12 20:04:05.997 [Info] 2020-09-12 20:04:05
+2020-09-12 20:04:07.002 [Info] 2020-09-12 20:04:07
+2020-09-12 20:04:08.011 [Info] 2020-09-12 20:04:08
+2020-09-12 20:04:08.011 [Info] End  building the project project/helloworld.....
+2020-09-12 20:04:08.109 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:04:08.109 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:04:08.141 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:04:08.228 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:04:08.228 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:04:08.253 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:04:08.39 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 20:04:08.39 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:04:19.389 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:04:19.389 [Info] Start building the project project/helloworld.....
+2020-09-12 20:04:20.41 [Info] 2020-09-12 20:04:20
+2020-09-12 20:04:21.417 [Info] 2020-09-12 20:04:21
+2020-09-12 20:04:22.427 [Info] 2020-09-12 20:04:22
+2020-09-12 20:04:23.437 [Info] 2020-09-12 20:04:23
+2020-09-12 20:04:24.444 [Info] 2020-09-12 20:04:24
+2020-09-12 20:04:25.452 [Info] 2020-09-12 20:04:25
+2020-09-12 20:04:26.461 [Info] 2020-09-12 20:04:26
+2020-09-12 20:04:27.47 [Info] 2020-09-12 20:04:27
+2020-09-12 20:04:28.48 [Info] 2020-09-12 20:04:28
+2020-09-12 20:04:29.485 [Info] 2020-09-12 20:04:29
+2020-09-12 20:04:29.485 [Info] End  building the project project/helloworld.....
+2020-09-12 20:04:29.485 [Info] the package is empty,please note that
+2020-09-12 20:04:29.567 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:04:29.567 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:04:29.591 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:04:29.674 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:04:29.674 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:04:29.7 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:04:29.832 [Info] [47.94.104.204]command result running ...:
+ command is completed
+2020-09-12 20:04:29.832 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:06:13.353 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:06:13.353 [Info] Start building the project project/helloworld.....
+2020-09-12 20:06:14.37 [Info] 2020-09-12 20:06:14
+2020-09-12 20:06:15.378 [Info] 2020-09-12 20:06:15
+2020-09-12 20:06:16.387 [Info] 2020-09-12 20:06:16
+2020-09-12 20:06:17.394 [Info] 2020-09-12 20:06:17
+2020-09-12 20:06:18.403 [Info] 2020-09-12 20:06:18
+2020-09-12 20:06:19.408 [Info] 2020-09-12 20:06:19
+2020-09-12 20:06:20.418 [Info] 2020-09-12 20:06:20
+2020-09-12 20:06:21.428 [Info] 2020-09-12 20:06:21
+2020-09-12 20:06:22.436 [Info] 2020-09-12 20:06:22
+2020-09-12 20:06:23.443 [Info] 2020-09-12 20:06:23
+2020-09-12 20:06:23.444 [Info] End  building the project project/helloworld.....
+2020-09-12 20:06:23.444 [Info] the package is empty,please note that
+2020-09-12 20:06:23.543 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:06:23.543 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:06:23.57 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:06:23.877 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:06:23.878 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:06:24.034 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:06:24.965 [Info] [47.94.104.204]command result running ...: command is completed [ok]
+2020-09-12 20:06:24.965 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:07:30.399 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:07:30.399 [Info] Start building the project project/helloworld.....
+2020-09-12 20:07:31.413 [Info] 2020-09-12 20:07:31
+2020-09-12 20:07:32.421 [Info] 2020-09-12 20:07:32
+2020-09-12 20:07:33.428 [Info] 2020-09-12 20:07:33
+2020-09-12 20:07:34.437 [Info] 2020-09-12 20:07:34
+2020-09-12 20:07:35.445 [Info] 2020-09-12 20:07:35
+2020-09-12 20:07:36.453 [Info] 2020-09-12 20:07:36
+2020-09-12 20:07:37.459 [Info] 2020-09-12 20:07:37
+2020-09-12 20:07:38.466 [Info] 2020-09-12 20:07:38
+2020-09-12 20:07:39.473 [Info] 2020-09-12 20:07:39
+2020-09-12 20:07:40.48 [Info] 2020-09-12 20:07:40
+2020-09-12 20:07:40.48 [Info] End  building the project project/helloworld.....
+2020-09-12 20:07:40.481 [Info] the package is empty,please note that
+2020-09-12 20:07:40.572 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:07:40.572 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:07:40.596 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:07:40.68 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:07:40.68 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:07:40.703 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:07:40.83 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 20:07:40.83 [Info] command is completed     [ok]
+2020-09-12 20:07:40.831 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:08:30.193 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:08:30.193 [Info] Start building the project project/helloworld.....
+2020-09-12 20:08:31.209 [Info] 2020-09-12 20:08:31
+2020-09-12 20:08:32.218 [Info] 2020-09-12 20:08:32
+2020-09-12 20:08:33.228 [Info] 2020-09-12 20:08:33
+2020-09-12 20:08:34.237 [Info] 2020-09-12 20:08:34
+2020-09-12 20:08:35.246 [Info] 2020-09-12 20:08:35
+2020-09-12 20:08:36.251 [Info] 2020-09-12 20:08:36
+2020-09-12 20:08:37.259 [Info] 2020-09-12 20:08:37
+2020-09-12 20:08:38.269 [Info] 2020-09-12 20:08:38
+2020-09-12 20:08:39.275 [Info] 2020-09-12 20:08:39
+2020-09-12 20:08:40.283 [Info] 2020-09-12 20:08:40
+2020-09-12 20:08:40.283 [Info] End  building the project project/helloworld.....
+2020-09-12 20:08:40.283 [Info] the package is empty,please note that
+2020-09-12 20:08:40.377 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:08:40.377 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:08:40.403 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:08:40.499 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:08:40.499 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:08:40.526 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:08:40.662 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 20:08:40.662 [Info] command is completed     [ok]
+2020-09-12 20:08:40.662 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:09:23.34 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:09:23.34 [Info] Start building the project project/helloworld.....
+2020-09-12 20:09:24.356 [Info] 2020-09-12 20:09:24
+2020-09-12 20:09:25.361 [Info] 2020-09-12 20:09:25
+2020-09-12 20:09:26.368 [Info] 2020-09-12 20:09:26
+2020-09-12 20:09:27.377 [Info] 2020-09-12 20:09:27
+2020-09-12 20:09:28.386 [Info] 2020-09-12 20:09:28
+2020-09-12 20:09:29.394 [Info] 2020-09-12 20:09:29
+2020-09-12 20:09:30.401 [Info] 2020-09-12 20:09:30
+2020-09-12 20:09:31.409 [Info] 2020-09-12 20:09:31
+2020-09-12 20:09:32.417 [Info] 2020-09-12 20:09:32
+2020-09-12 20:09:33.428 [Info] 2020-09-12 20:09:33
+2020-09-12 20:09:33.429 [Info] End  building the project project/helloworld.....
+2020-09-12 20:09:33.429 [Info] the package is empty,please note that
+2020-09-12 20:09:33.515 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:09:33.515 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:09:33.541 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:09:33.633 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:09:33.633 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:09:33.659 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:09:33.788 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 20:09:33.788 [Info] command is completed     [ok]
+2020-09-12 20:09:33.788 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:13:58.802 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:13:58.803 [Info] Start building the project project/helloworld.....
+2020-09-12 20:13:59.82 [Info] 2020-09-12 20:13:59
+2020-09-12 20:14:00.826 [Info] 2020-09-12 20:14:00
+2020-09-12 20:14:01.832 [Info] 2020-09-12 20:14:01
+2020-09-12 20:14:02.841 [Info] 2020-09-12 20:14:02
+2020-09-12 20:14:03.848 [Info] 2020-09-12 20:14:03
+2020-09-12 20:14:04.857 [Info] 2020-09-12 20:14:04
+2020-09-12 20:14:05.866 [Info] 2020-09-12 20:14:05
+2020-09-12 20:14:06.873 [Info] 2020-09-12 20:14:06
+2020-09-12 20:14:07.882 [Info] 2020-09-12 20:14:07
+2020-09-12 20:14:08.891 [Info] 2020-09-12 20:14:08
+2020-09-12 20:14:08.892 [Info] End  building the project project/helloworld.....
+2020-09-12 20:14:08.892 [Info] the package is empty,please note that
+2020-09-12 20:14:08.979 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:14:08.979 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:14:09.004 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:14:09.092 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:14:09.092 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:14:09.116 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:14:09.238 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 20:14:09.239 [Info] command is completed     [ok]
+2020-09-12 20:14:09.239 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:15:16.738 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:15:16.738 [Info] Start building the project project/helloworld.....
+2020-09-12 20:15:17.751 [Info] 2020-09-12 20:15:17
+2020-09-12 20:15:18.758 [Info] 2020-09-12 20:15:18
+2020-09-12 20:15:19.765 [Info] 2020-09-12 20:15:19
+2020-09-12 20:15:20.775 [Info] 2020-09-12 20:15:20
+2020-09-12 20:15:21.782 [Info] 2020-09-12 20:15:21
+2020-09-12 20:15:22.79 [Info] 2020-09-12 20:15:22
+2020-09-12 20:15:23.799 [Info] 2020-09-12 20:15:23
+2020-09-12 20:15:24.809 [Info] 2020-09-12 20:15:24
+2020-09-12 20:15:25.814 [Info] 2020-09-12 20:15:25
+2020-09-12 20:15:26.822 [Info] 2020-09-12 20:15:26
+2020-09-12 20:15:26.822 [Info] End  building the project project/helloworld.....
+2020-09-12 20:15:26.822 [Info] the package is empty,please note that
+2020-09-12 20:15:26.932 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:15:26.932 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:52:21.501 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:52:21.501 [Info] Start building the project project/helloworld.....
+2020-09-12 20:52:22.523 [Info] 2020-09-12 20:52:22
+2020-09-12 20:52:23.53 [Info] 2020-09-12 20:52:23
+2020-09-12 20:52:24.536 [Info] 2020-09-12 20:52:24
+2020-09-12 20:52:25.545 [Info] 2020-09-12 20:52:25
+2020-09-12 20:52:26.555 [Info] 2020-09-12 20:52:26
+2020-09-12 20:52:27.56 [Info] 2020-09-12 20:52:27
+2020-09-12 20:52:28.566 [Info] 2020-09-12 20:52:28
+2020-09-12 20:52:29.572 [Info] 2020-09-12 20:52:29
+2020-09-12 20:52:30.578 [Info] 2020-09-12 20:52:30
+2020-09-12 20:52:31.585 [Info] 2020-09-12 20:52:31
+2020-09-12 20:52:31.586 [Info] End  building the project project/helloworld.....
+2020-09-12 20:52:31.586 [Info] the package is empty,please note that
+2020-09-12 20:52:31.68 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:52:31.68 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:52:31.704 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:52:31.787 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:52:31.787 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:52:31.812 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:52:31.942 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 20:52:31.942 [Info] command is completed     [ok]
+2020-09-12 20:52:31.942 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:54:18.746 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:54:18.746 [Info] Start building the project project/helloworld.....
+2020-09-12 20:54:19.762 [Info] 2020-09-12 20:54:19
+2020-09-12 20:54:20.771 [Info] 2020-09-12 20:54:20
+2020-09-12 20:54:21.78 [Info] 2020-09-12 20:54:21
+2020-09-12 20:54:22.788 [Info] 2020-09-12 20:54:22
+2020-09-12 20:54:23.798 [Info] 2020-09-12 20:54:23
+2020-09-12 20:54:24.808 [Info] 2020-09-12 20:54:24
+2020-09-12 20:54:25.818 [Info] 2020-09-12 20:54:25
+2020-09-12 20:54:26.825 [Info] 2020-09-12 20:54:26
+2020-09-12 20:54:27.834 [Info] 2020-09-12 20:54:27
+2020-09-12 20:54:28.842 [Info] 2020-09-12 20:54:28
+2020-09-12 20:54:28.843 [Info] End  building the project project/helloworld.....
+2020-09-12 20:54:28.843 [Info] the package is empty,please note that
+2020-09-12 20:54:28.963 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:54:28.963 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:54:28.989 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:54:29.076 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:54:29.076 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:54:29.1 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:54:29.229 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 20:54:29.229 [Info] command is completed     [ok]
+2020-09-12 20:54:29.229 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:56:37.696 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:56:37.696 [Info] Start building the project project/helloworld.....
+2020-09-12 20:56:38.714 [Info] 2020-09-12 20:56:38
+2020-09-12 20:56:39.723 [Info] 2020-09-12 20:56:39
+2020-09-12 20:56:40.736 [Info] 2020-09-12 20:56:40
+2020-09-12 20:56:41.749 [Info] 2020-09-12 20:56:41
+2020-09-12 20:56:42.761 [Info] 2020-09-12 20:56:42
+2020-09-12 20:56:43.772 [Info] 2020-09-12 20:56:43
+2020-09-12 20:56:44.783 [Info] 2020-09-12 20:56:44
+2020-09-12 20:56:45.793 [Info] 2020-09-12 20:56:45
+2020-09-12 20:56:46.808 [Info] 2020-09-12 20:56:46
+2020-09-12 20:56:47.82 [Info] 2020-09-12 20:56:47
+2020-09-12 20:56:47.82 [Info] End  building the project project/helloworld.....
+2020-09-12 20:56:47.82 [Info] the package is empty,please note that
+2020-09-12 20:56:47.907 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:56:47.907 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:56:47.931 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:56:48.023 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:56:48.024 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:56:48.048 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:56:48.177 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 20:56:48.177 [Info] command is completed     [ok]
+2020-09-12 20:56:48.178 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:56:55.709 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:56:55.709 [Info] Start building the project project/helloworld.....
+2020-09-12 20:56:56.724 [Info] 2020-09-12 20:56:56
+2020-09-12 20:56:57.735 [Info] 2020-09-12 20:56:57
+2020-09-12 20:56:58.743 [Info] 2020-09-12 20:56:58
+2020-09-12 20:56:59.749 [Info] 2020-09-12 20:56:59
+2020-09-12 20:57:00.762 [Info] 2020-09-12 20:57:00
+2020-09-12 20:57:01.775 [Info] 2020-09-12 20:57:01
+2020-09-12 20:57:02.787 [Info] 2020-09-12 20:57:02
+2020-09-12 20:57:03.796 [Info] 2020-09-12 20:57:03
+2020-09-12 20:57:04.807 [Info] 2020-09-12 20:57:04
+2020-09-12 20:57:05.814 [Info] 2020-09-12 20:57:05
+2020-09-12 20:57:05.815 [Info] End  building the project project/helloworld.....
+2020-09-12 20:57:05.815 [Info] the package is empty,please note that
+2020-09-12 20:57:05.9 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:57:05.9 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:57:05.926 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:57:06.015 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:57:06.015 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:57:06.042 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:57:06.178 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 20:57:06.178 [Info] command is completed     [ok]
+2020-09-12 20:57:06.178 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 20:59:05.285 [Info] Clone branch is [refs/heads/dev 9ba8c5d0765fd714109a860161bc793b036c0fa0]
+2020-09-12 20:59:05.285 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 20:59:05.286 [Info] Start building the project project/helloworld.....
+2020-09-12 20:59:06.303 [Info] 2020-09-12 20:59:06
+2020-09-12 20:59:07.313 [Info] 2020-09-12 20:59:07
+2020-09-12 20:59:08.322 [Info] 2020-09-12 20:59:08
+2020-09-12 20:59:09.332 [Info] 2020-09-12 20:59:09
+2020-09-12 20:59:10.342 [Info] 2020-09-12 20:59:10
+2020-09-12 20:59:11.351 [Info] 2020-09-12 20:59:11
+2020-09-12 20:59:12.358 [Info] 2020-09-12 20:59:12
+2020-09-12 20:59:13.367 [Info] 2020-09-12 20:59:13
+2020-09-12 20:59:14.374 [Info] 2020-09-12 20:59:14
+2020-09-12 20:59:15.383 [Info] 2020-09-12 20:59:15
+2020-09-12 20:59:15.383 [Info] End  building the project project/helloworld.....
+2020-09-12 20:59:15.383 [Info] the package is empty,please note that
+2020-09-12 20:59:15.471 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:59:15.471 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:59:15.495 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 20:59:15.577 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 20:59:15.577 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 20:59:15.604 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 20:59:15.725 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 20:59:15.725 [Info] command is completed     [ok]
+2020-09-12 20:59:15.725 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 21:00:44.939 [Info] Clone branch is refs/heads/dev
+2020-09-12 21:00:44.94 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 21:00:44.94 [Info] Start building the project project/helloworld.....
+2020-09-12 21:00:45.954 [Info] 2020-09-12 21:00:45
+2020-09-12 21:00:46.959 [Info] 2020-09-12 21:00:46
+2020-09-12 21:00:47.969 [Info] 2020-09-12 21:00:47
+2020-09-12 21:00:48.976 [Info] 2020-09-12 21:00:48
+2020-09-12 21:00:49.986 [Info] 2020-09-12 21:00:49
+2020-09-12 21:00:50.995 [Info] 2020-09-12 21:00:50
+2020-09-12 21:00:52.008 [Info] 2020-09-12 21:00:52
+2020-09-12 21:00:53.018 [Info] 2020-09-12 21:00:53
+2020-09-12 21:00:54.026 [Info] 2020-09-12 21:00:54
+2020-09-12 21:00:55.036 [Info] 2020-09-12 21:00:55
+2020-09-12 21:00:55.036 [Info] End  building the project project/helloworld.....
+2020-09-12 21:00:55.036 [Info] the package is empty,please note that
+2020-09-12 21:00:55.129 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:00:55.129 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:00:55.159 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 21:00:55.299 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:00:55.3 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:00:55.327 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 21:00:55.467 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 21:00:55.467 [Info] command is completed     [ok]
+2020-09-12 21:00:55.467 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 21:01:08.515 [Info] Clone branch is refs/heads/dev
+2020-09-12 21:01:08.515 [Info] Clone branch hash is 9ba8c5d0765fd714109a860161bc793b036c0fa0
+2020-09-12 21:01:08.515 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 21:01:08.516 [Info] Start building the project project/helloworld.....
+2020-09-12 21:01:09.527 [Info] 2020-09-12 21:01:09
+2020-09-12 21:01:10.536 [Info] 2020-09-12 21:01:10
+2020-09-12 21:01:11.543 [Info] 2020-09-12 21:01:11
+2020-09-12 21:01:12.552 [Info] 2020-09-12 21:01:12
+2020-09-12 21:01:13.56 [Info] 2020-09-12 21:01:13
+2020-09-12 21:01:14.569 [Info] 2020-09-12 21:01:14
+2020-09-12 21:01:15.576 [Info] 2020-09-12 21:01:15
+2020-09-12 21:01:16.585 [Info] 2020-09-12 21:01:16
+2020-09-12 21:01:17.594 [Info] 2020-09-12 21:01:17
+2020-09-12 21:01:18.599 [Info] 2020-09-12 21:01:18
+2020-09-12 21:01:18.6 [Info] End  building the project project/helloworld.....
+2020-09-12 21:01:18.6 [Info] the package is empty,please note that
+2020-09-12 21:01:18.686 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:01:18.686 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:01:18.71 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 21:01:18.796 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:01:18.797 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:01:18.821 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 21:01:18.952 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 21:01:18.952 [Info] command is completed     [ok]
+2020-09-12 21:01:18.952 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 21:02:49.278 [Info] Clone branch is refs/heads/dev
+2020-09-12 21:02:49.278 [Info] Clone branch hash is 9ba8c5d0765fd714109a860161bc793b036c0fa0
+2020-09-12 21:02:49.278 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 21:02:49.278 [Info] Start building the project project/helloworld.....
+2020-09-12 21:02:49.285 [Info] project/helloworld/build.sh: line 4: cd: ../workspace/helloworld: No such file or directory
+2020-09-12 21:02:52.6 [Info] unable to prepare context: unable to evaluate symlinks in Dockerfile path: lstat /Users/zhangpengxuan/go/src/uosDevops/Dockerfile: no such file or directory
+2020-09-12 21:02:52.602 [Info] End  building the project project/helloworld.....
+2020-09-12 21:02:52.602 [Info] the package is empty,please note that
+2020-09-12 21:02:52.692 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:02:52.693 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:02:52.716 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 21:02:52.807 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:02:52.807 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:02:52.831 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 21:02:52.961 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 21:02:52.961 [Info] command is completed     [ok]
+2020-09-12 21:02:52.961 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 21:03:11.658 [Info] Clone branch is refs/heads/dev
+2020-09-12 21:03:11.658 [Info] Clone branch hash is 9ba8c5d0765fd714109a860161bc793b036c0fa0
+2020-09-12 21:03:11.658 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 21:03:11.658 [Info] Start building the project project/helloworld.....
+2020-09-12 21:03:11.665 [Info] /Users/zhangpengxuan/go/src/uosDevops
+2020-09-12 21:03:11.665 [Info] End  building the project project/helloworld.....
+2020-09-12 21:03:11.665 [Info] the package is empty,please note that
+2020-09-12 21:03:11.752 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:03:11.752 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:03:11.776 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 21:03:11.865 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:03:11.866 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:03:11.892 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 21:03:12.021 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 21:03:12.021 [Info] command is completed     [ok]
+2020-09-12 21:03:12.021 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
+2020-09-12 21:03:59.646 [Info] Clone branch is refs/heads/dev
+2020-09-12 21:03:59.646 [Info] Clone branch hash is 9ba8c5d0765fd714109a860161bc793b036c0fa0
+2020-09-12 21:03:59.646 [Info] Clone project/helloworld successed      [ok]
+2020-09-12 21:03:59.646 [Info] Start building the project project/helloworld.....
+2020-09-12 21:04:00.521 [Info] Sending build context to Docker daemon  29.18kB
+2020-09-12 21:04:01.264 [Info] Step 1/6 : FROM golang:1.12.9-alpine3.10 as builder
+2020-09-12 21:04:05.213 [Info] 1.12.9-alpine3.10: Pulling from library/golang
+2020-09-12 21:04:06.537 [Info] 9d48c3bd43c5: Already exists
+2020-09-12 21:04:06.547 [Info] 7f94eaf8af20: Pulling fs layer
+9fe9984849c1: Pulling fs layer
+2020-09-12 21:04:06.547 [Info] cf0db633a67d: Pulling fs layer
+0f7136d71739: Pulling fs layer
+0f7136d71739: Waiting
+2020-09-12 21:04:09.996 [Info] 9fe9984849c1: Verifying Checksum
+9fe9984849c1: Download complete
+2020-09-12 21:04:10.542 [Info] 
+2020-09-12 21:04:10.542 [Info] 7f94eaf8af20: Verifying Checksum
+7f94eaf8af20: Download complete
+2020-09-12 21:04:10.811 [Info] 7f94eaf8af20: Pull complete
+2020-09-12 21:04:10.902 [Info] 9fe9984849c1: Pull complete
+2020-09-12 21:04:13.001 [Info] 0f7136d71739: Verifying Checksum
+0f7136d71739: Download complete
+2020-09-12 21:04:41.242 [Info] cf0db633a67d: Verifying Checksum
+cf0db633a67d: Download complete
+2020-09-12 21:04:48.79 [Info] cf0db633a67d: Pull complete
+2020-09-12 21:04:48.969 [Info] 0f7136d71739: Pull complete
+2020-09-12 21:04:48.982 [Info] Digest: sha256:e0660b4f1e68e0d408420acb874b396fc6dd25e7c1d03ad36e7d6d1155a4dff6
+2020-09-12 21:04:48.991 [Info] Status: Downloaded newer image for golang:1.12.9-alpine3.10
+2020-09-12 21:04:49.005 [Info]  ---> e0d646523991
+Step 2/6 : COPY main.go .
+2020-09-12 21:04:50.094 [Info]  ---> 5bb6c228bbcf
+Step 3/6 : RUN go build -o /app main.go
+2020-09-12 21:04:50.251 [Info]  ---> Running in fa2b13d51b60
+2020-09-12 21:04:52.903 [Info] Removing intermediate container fa2b13d51b60
+ ---> afd1713284f1
+2020-09-12 21:04:52.903 [Info] 
+2020-09-12 21:04:52.904 [Info] Step 4/6 : FROM alpine:3.10
+2020-09-12 21:04:56.226 [Info] 3.10: Pulling from library/alpine
+2020-09-12 21:04:57.49 [Info] 21c83c524219: Pulling fs layer
+2020-09-12 21:05:04.175 [Info] 21c83c524219: Verifying Checksum
+2020-09-12 21:05:04.175 [Info] 21c83c524219: Download complete
+2020-09-12 21:05:04.377 [Info] 21c83c524219: Pull complete
+2020-09-12 21:05:04.381 [Info] Digest: sha256:f0e9534a598e501320957059cb2a23774b4d4072e37c7b2cf7e95b241f019e35
+2020-09-12 21:05:04.383 [Info] Status: Downloaded newer image for alpine:3.10
+2020-09-12 21:05:04.384 [Info]  ---> be4e4bea2c2e
+2020-09-12 21:05:04.384 [Info] Step 5/6 : CMD ["./app"]
+2020-09-12 21:05:04.472 [Info]  ---> Running in d7bd618a8290
+2020-09-12 21:05:04.622 [Info] Removing intermediate container d7bd618a8290
+ ---> d80b029c30b0
+Step 6/6 : COPY --from=builder /app .
+2020-09-12 21:05:04.881 [Info]  ---> 09b987f95761
+2020-09-12 21:05:04.882 [Info] Successfully built 09b987f95761
+2020-09-12 21:05:04.887 [Info] End  building the project project/helloworld.....
+2020-09-12 21:05:04.887 [Info] the package is empty,please note that
+2020-09-12 21:05:05.031 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:05:05.032 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:05:05.055 [Info] [47.94.104.204:22] The  Deploy package deploy.sh for send  is    successful      [ok]
+2020-09-12 21:05:05.139 [Info] [47.94.104.204:22] The ssh connection is successful      [ok]
+2020-09-12 21:05:05.139 [Info] [47.94.104.204:22]  Read this  file    [ok]
+2020-09-12 21:05:05.164 [Info] [47.94.104.204:22] The  Compressed package  for send  is    successful      [ok]
+2020-09-12 21:05:05.3 [Info] [47.94.104.204]command result running ...: 
+2020-09-12 21:05:05.3 [Info] command is completed     [ok]
+2020-09-12 21:05:05.3 [Info] [47.94.104.204:22]  Deploy the project helloworld is    successful      [ok]
